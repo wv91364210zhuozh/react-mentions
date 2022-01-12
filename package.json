@@ -84,7 +84,7 @@
   "dependencies": {
     "@babel/runtime": "7.4.5",
     "invariant": "^2.2.4",
-    "prop-types": "^15.5.8",
+    "prop-types": "^15.8.0",
     "substyle": "^9.1.0"
   },
   "peerDependencies": {
